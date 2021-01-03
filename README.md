@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 2021 👋
 
 #### 2021 Learning Goals
 1. 🌱 19% [47/238] `Book` **Concurrency in Go** [_Katherine Cox-Buday_]
