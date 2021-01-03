@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### 2021 Learning Goals
+1. 🌱 `Book` **Concurrency in Go** [_Katherine Cox-Buday_]
+1. 🌱 `Course` **Vue 3 - The Complete Guide** [_Maximilian Schwarzmüller_]
+1. 🌱 `Book` **Level Up your Web Apps with Go** [_Mal Curtis_]
+
+
 #### 2020 Learned Achievement
 1. 🎖️`Book` **Go Web Programming** [_Sau Sheong Chang_]
 1. 🎖️`Book` **Web Development with Go** [_Shiju Varghese_]
