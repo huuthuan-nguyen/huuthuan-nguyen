@@ -2,7 +2,7 @@
 
 #### 2021 Learning Goals
 1. 🌱 19% [47/238] `Book` **Concurrency in Go** [_Katherine Cox-Buday_]
-1. 🌱 18% [58/309] `Course` **Vue 3 - The Complete Guide** [_Maximilian Schwarzmüller_]
+1. 🌱 21% [66/309] `Course` **Vue 3 - The Complete Guide** [_Maximilian Schwarzmüller_]
 1. 🌱 43% [112/259] `Book` **Level Up your Web Apps with Go** [_Mal Curtis_]
 
 
