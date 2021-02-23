@@ -3,7 +3,7 @@
 ### 2021 Learning Goals
 ###### Graph Databases
 1. 🌳 `Book` ~~**Learning Neo4J 3.x** [_Rik Van Bruggen_]~~
-1. 🌱 ![54%](https://progress-bar.dev/128/?scale=237&title=pages&width=150&color=bacaca&suffix=) `Book` **Graph Databases** [_Ian Robinson_]
+1. 🌱 ![54%](https://progress-bar.dev/188/?scale=237&title=pages&width=150&color=bacaca&suffix=) `Book` **Graph Databases** [_Ian Robinson_]
 1. 🌱 ![34%](https://progress-bar.dev/48/?scale=138&title=pages&width=150&color=bacaca&suffix=) `Book` **Neo4J Graph Data Modeling** [_Mahesh Lal_]
 1. 🌱 ![0%](https://progress-bar.dev/0/?scale=192&title=pages&width=150&color=bacaca&suffix=) `Book` **Neo4J High Performance** [_Sonal Raj_]
 ###### Mainstream
