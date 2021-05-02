@@ -1,6 +1,9 @@
 ### Hi 2021 👋
 
 ### 2021 Learning Goals
+###### Flutter
+1. 🌱 ![10%](https://progress-bar.dev/2/?scale=19&title=pages&width=150&color=bacaca&suffix=) `Course` **Flutter & Dart- The Complete Guide** [_Maximilian Schwarzmüller_]
+
 ###### Graph Databases
 1. 🌳 `Book` ~~**Learning Neo4J 3.x** [_Rik Van Bruggen_]~~
 1. 🌱 ![54%](https://progress-bar.dev/188/?scale=237&title=pages&width=150&color=bacaca&suffix=) `Book` **Graph Databases** [_Ian Robinson_]
